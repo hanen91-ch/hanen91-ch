@@ -1,6 +1,6 @@
 # Bonjour, je suis Hanen Chtourou 👋
 
-**Analyste-programmeure** à Montréal · plus de 10 ans d'expérience en développement d'applications de gestion et d'ERP · en requalification (AEC Analyste-programmeur, Collège de Bois-de-Boulogne).
+**Analyste-programmeure** à Laval · plus de 10 ans d'expérience en développement d'applications de gestion et d'ERP · en requalification (Baccalauriat en informatique, Tunisie et actuellement AEC Analyste-programmeur, Collège de Bois-de-Boulogne Canada).
 
 🎯 **Je cherche un stage en développement pour l'hiver 2027.**
 
